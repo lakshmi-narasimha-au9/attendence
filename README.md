@@ -37,6 +37,7 @@ urant.json
 - When clicking on the search result populate the output section
 - Clear search bar
 - jQuery or Vanilla JS is your choice
+
 Note:
 ● Using bootstrap is recommended to score higher, unless mentioned not to
 ● You need to do proper commits for each feature you make, and it is mandatory,
