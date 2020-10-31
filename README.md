@@ -39,5 +39,6 @@ The search bar should implement an autocomplete dropdown (30)
 Note:
 
 ● Using bootstrap is recommended to score higher, unless mentioned not to.
+
 ● You need to do proper commits for each feature you make, and it is mandatory,
 commits can affect the marks, so do them properly.
